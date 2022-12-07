@@ -1,0 +1,3017 @@
+{
+    "items": [
+        {
+            "id": 1680786,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198306395692",
+                "botId": 271,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26909830983,
+                "names": {
+                    "short": "★ Butterfly Knife | Gamma Doppler Emerald",
+                    "full": "★ StatTrak™ Butterfly Knife | Gamma Doppler Emerald (Minimal Wear)",
+                    "identifier": 1088265
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/fd45ff83324b4f6d7b69c1a392fd6bd8_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqPL5NqnQmm9u5cRjiOXE_JbwjGu4ohQ0J3f6JtPEegNrMwvUrwe6kLjsjcPtuJXJmnFguCMn5i7enkDkiRFIabM7m7XAHtBCTvK7",
+                    "preview": "https://s1.cs.money/fd45ff83324b4f6d7b69c1a392fd6bd8_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 186,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.071122922,
+                "inspect": "5352541970863137913",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 23506.8,
+                "priceBeforeDiscount": 23506.8,
+                "extra": null,
+                "discount": 0.2538,
+                "computed": 17539.69
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/fd45ff83324b4f6d7b69c1a392fd6bd8"
+            }
+        },
+        {
+            "id": 1758964,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198322246050",
+                "botId": 757,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27651458722,
+                "names": {
+                    "short": "★ Butterfly Knife | Doppler Sapphire",
+                    "full": "★ Butterfly Knife | Doppler Sapphire (Factory New)",
+                    "identifier": 3985
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/917f19411f0e5811b57a9b3964c60d25_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqOT1I6vZn3lU18hwmOvN8IXvjVCLqSwwOj6rYJiRdg42NAuE-lW5kri5hpbuvM7AzHtmsnMh4imPzUa3gB4aaOw9hfCeVxzAUJ5TOTzr",
+                    "preview": "https://s1.cs.money/917f19411f0e5811b57a9b3964c60d25_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 190,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0111930566,
+                "inspect": "7062783578272565333",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 19871,
+                "priceBeforeDiscount": 19978.3,
+                "extra": {
+                    "float": 107.3
+                },
+                "discount": 0.1308,
+                "computed": 17365.75
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/917f19411f0e5811b57a9b3964c60d25"
+            }
+        },
+        {
+            "id": 1641779,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198306409797",
+                "botId": 323,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27065839060,
+                "names": {
+                    "short": "★ M9 Bayonet | Crimson Web",
+                    "full": "★ StatTrak™ M9 Bayonet | Crimson Web (Factory New)",
+                    "identifier": 22548
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/dce921b4ca87fdb6c4fb4978722613d1_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-DjsjjNrnCqWdY781lxLzD8I6s0AK2rkE_Yz-nJdeTJlJrZwuD-Qe9x-6515ftuM_OznphuXQ8pSGKLNyhYhs",
+                    "preview": "https://s1.cs.money/dce921b4ca87fdb6c4fb4978722613d1_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 476,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0690156743,
+                "inspect": "9574803035838594892",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 18222.6,
+                "priceBeforeDiscount": 18222.6,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 15839.65
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/dce921b4ca87fdb6c4fb4978722613d1"
+            }
+        },
+        {
+            "id": 1639450,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198453228798",
+                "botId": 2049,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27119761302,
+                "names": {
+                    "short": "★ M9 Bayonet | Doppler Sapphire",
+                    "full": "★ M9 Bayonet | Doppler Sapphire (Factory New)",
+                    "identifier": 11102
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/5b92ca3a45c663a5421f713348c8ab20_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjnMqvBnmJD7fp8i_vD-Yn8klGwlB81NDG3OtSUJgY7YVvS-VfolLq7hsO5tZ_OnXo3uyhz7SyPnhGx0xoeb-dugKOACQLJ28w8Lgw",
+                    "preview": "https://s1.cs.money/5b92ca3a45c663a5421f713348c8ab20_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 651,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0562722385,
+                "inspect": "2758466788371159872",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 14901,
+                "priceBeforeDiscount": 14901,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 12952.41
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/5b92ca3a45c663a5421f713348c8ab20"
+            }
+        },
+        {
+            "id": 1721956,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307149361",
+                "botId": 903,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27205084061,
+                "names": {
+                    "short": "★ M9 Bayonet | Doppler Sapphire",
+                    "full": "★ M9 Bayonet | Doppler Sapphire (Factory New)",
+                    "identifier": 11102
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/344a083f211570eab40c8cb2ea705e5b_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjnMqvBnmJD7fp8i_vD-Yn8klGwlB81NDG3OtSUJgY7YVvS-VfolLq7hsO5tZ_OnXo3uyhz7SyPnhGx0xoeb-dugKOACQLJ28w8Lgw",
+                    "preview": "https://s1.cs.money/344a083f211570eab40c8cb2ea705e5b_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 194,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0341120996,
+                "inspect": "2758466788371159872",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 14901,
+                "priceBeforeDiscount": 14901,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 12952.41
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/344a083f211570eab40c8cb2ea705e5b"
+            }
+        },
+        {
+            "id": 1676368,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198308379343",
+                "botId": 143,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26910135452,
+                "names": {
+                    "short": "★ M9 Bayonet | Doppler Sapphire",
+                    "full": "★ StatTrak™ M9 Bayonet | Doppler Sapphire (Factory New)",
+                    "identifier": 19779
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/619a258c74f6d94dacfbc6aebc28d312_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjnMqvBnmJD7fp8i_vD-Yn8klGwlB81NDG3OtSUJgY7YVvS-VfolLq7hsO5tZ_OnXo3uyhz7SyPnhGx0xoeb-dugKOACQLJ28w8Lgw",
+                    "preview": "https://s1.cs.money/619a258c74f6d94dacfbc6aebc28d312_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 707,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0666851476,
+                "inspect": "5659906450294042918",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 14732.7,
+                "priceBeforeDiscount": 14732.7,
+                "extra": null,
+                "discount": 0.2538,
+                "computed": 10992.86
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/619a258c74f6d94dacfbc6aebc28d312"
+            }
+        },
+        {
+            "id": 1664218,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198310154128",
+                "botId": 921,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26894043494,
+                "names": {
+                    "short": "★ M9 Bayonet | Doppler Sapphire",
+                    "full": "★ StatTrak™ M9 Bayonet | Doppler Sapphire (Minimal Wear)",
+                    "identifier": 21490
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/0558f26d3aa40dda45667f556e9aff54_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjnMqvBnmJD7fp8i_vD-Yn8klGwlB81NDG3OtSUJgY7YVvS-VfolLq7hsO5tZ_OnXo3uyhz7SyPnhGx0xoeb-dugKOACQLJ28w8Lgw",
+                    "preview": "https://s1.cs.money/0558f26d3aa40dda45667f556e9aff54_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 643,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0708757266,
+                "inspect": "5532707789741748672",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 14647.6,
+                "priceBeforeDiscount": 14647.6,
+                "extra": null,
+                "discount": 0.2538,
+                "computed": 10929.36
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/0558f26d3aa40dda45667f556e9aff54"
+            }
+        },
+        {
+            "id": 1634917,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198453053907",
+                "botId": 2057,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27411739005,
+                "names": {
+                    "short": "★ M9 Bayonet | Gamma Doppler Emerald",
+                    "full": "★ M9 Bayonet | Gamma Doppler Emerald (Factory New)",
+                    "identifier": 13270
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/de57c1dc388ee0ae450c955c539a287a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjxPr7Dl2dV18hwmOvN8IXvjVCLpxo7Oy3tIdLEdgdqNAmBqFa_kO3mh8K9uJqbyiMy7HIn5H3VzUPl1B0dO7M7hOveFwvYitsMFw",
+                    "preview": "https://s1.cs.money/de57c1dc388ee0ae450c955c539a287a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 773,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0605979674,
+                "inspect": "10011188095192609034",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 13170.5,
+                "priceBeforeDiscount": 13170.5,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 10739.02
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/de57c1dc388ee0ae450c955c539a287a"
+            }
+        },
+        {
+            "id": 1780038,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198309046126",
+                "botId": 553,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27725218907,
+                "names": {
+                    "short": "★ M9 Bayonet | Gamma Doppler Emerald",
+                    "full": "★ StatTrak™ M9 Bayonet | Gamma Doppler Emerald (Factory New)",
+                    "identifier": 13743
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/a4485768ee9f12f69bc9031edd76cbc9_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjxPr7Dl2dV18hwmOvN8IXvjVCLpxo7Oy3tIdLEdgdqNAmBqFa_kO3mh8K9uJqbyiMy7HIn5H3VzUPl1B0dO7M7hOveFwvYitsMFw",
+                    "preview": "https://s1.cs.money/a4485768ee9f12f69bc9031edd76cbc9_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 402,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0411827303,
+                "inspect": "3091941387724102090",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 12416.2,
+                "priceBeforeDiscount": 12416.2,
+                "extra": null,
+                "discount": 0.1615,
+                "computed": 10410.51
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/a4485768ee9f12f69bc9031edd76cbc9"
+            }
+        },
+        {
+            "id": 1346865,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198081050369",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 21.44,
+                    "successRate": 8.06
+                }
+            },
+            "asset": {
+                "id": 27419155568,
+                "names": {
+                    "short": "★ Karambit | Doppler Sapphire",
+                    "full": "★ Karambit | Doppler Sapphire (Factory New)",
+                    "identifier": 3364
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/a48f5d64408311b94af596a0e2de4e3e_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20hPbkI7PYhG5u5cRjiOXE_JbwjGu4ohQ0J3egI4ORcQNqYw3W8la5w-frgJK77ZXKwCQysyVwtnbayxKzhxlIarRum7XAHvqFh2jA",
+                    "preview": "https://s1.cs.money/a48f5d64408311b94af596a0e2de4e3e_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 557,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.06219325959682401,
+                "inspect": "16636445189463340633",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 12233.4,
+                "priceBeforeDiscount": 12233.4,
+                "extra": null,
+                "discount": 0.1213,
+                "computed": 10750
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/a48f5d64408311b94af596a0e2de4e3e"
+            }
+        },
+        {
+            "id": 342071,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198213534907",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 24999032029,
+                "names": {
+                    "short": "★ Karambit | Doppler Sapphire",
+                    "full": "★ Karambit | Doppler Sapphire (Factory New)",
+                    "identifier": 3364
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/76d1539bf0b491f9e7da32dc8dab807a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20hPbkI7PYhG5u5cRjiOXE_JbwjGu4ohQ0J3egI4ORcQNqYw3W8la5w-frgJK77ZXKwCQysyVwtnbayxKzhxlIarRum7XAHvqFh2jA",
+                    "preview": "https://s1.cs.money/76d1539bf0b491f9e7da32dc8dab807a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 307,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.035412646830081,
+                "inspect": "5632921377561195027",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 12233.4,
+                "priceBeforeDiscount": 12233.4,
+                "extra": null,
+                "discount": 0.0918,
+                "computed": 11110
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/76d1539bf0b491f9e7da32dc8dab807a"
+            }
+        },
+        {
+            "id": 1758491,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198125512816",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27309823125,
+                "names": {
+                    "short": "★ Karambit | Gamma Doppler Emerald",
+                    "full": "★ Karambit | Gamma Doppler Emerald (Factory New)",
+                    "identifier": 14391
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/b374c3bc95ba926f7187dc32017dc90c_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20kvrxIbrdklRc6ddzhuzI74nxt1i9rBsofT-ld9LDJgVsY1nX-QLtlejqg5bu7Zydm3Q1uSVzsXmOmUe3ghFKauBxxavJdWR7Gog",
+                    "preview": "https://s1.cs.money/b374c3bc95ba926f7187dc32017dc90c_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 786,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.011231748387217,
+                "inspect": "16448450750066940633",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 11660.4,
+                "priceBeforeDiscount": 11660.4,
+                "extra": {
+                    "float": 249.4
+                },
+                "discount": 0.1476,
+                "computed": 9939.13
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/b374c3bc95ba926f7187dc32017dc90c"
+            }
+        },
+        {
+            "id": 1326480,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198116993297",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 362.8,
+                    "successRate": 0.28
+                }
+            },
+            "asset": {
+                "id": 20971037376,
+                "names": {
+                    "short": "★ Butterfly Knife | Doppler Ruby",
+                    "full": "★ Butterfly Knife | Doppler Ruby (Factory New)",
+                    "identifier": 13824
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/cde0b1f79f178d235499711f36ab9a6e_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqOXhMaLum2pD6sl0g_PE8bP5gVO8v11kYjjzJ9KcIFI5YliDqAXoxbrsgpC9up_BmCM17nYh4SndzRLl1xwdcKUx0pRZROip",
+                    "preview": "https://s1.cs.money/cde0b1f79f178d235499711f36ab9a6e_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 514,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.007396798580884,
+                "inspect": "886240037090494207",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 11060,
+                "priceBeforeDiscount": 11183.07,
+                "extra": {
+                    "float": 123.07
+                },
+                "discount": 0.2308,
+                "computed": 8602
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/cde0b1f79f178d235499711f36ab9a6e"
+            }
+        },
+        {
+            "id": 1672746,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198309954639",
+                "botId": 27,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27455182462,
+                "names": {
+                    "short": "★ Karambit | Gamma Doppler Emerald",
+                    "full": "★ StatTrak™ Karambit | Gamma Doppler Emerald (Factory New)",
+                    "identifier": 18615
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/3cb5c42d36cb20e1d83e080aaf1cbc91_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20kvrxIbrdklRc6ddzhuzI74nxt1i9rBsofT-ld9LDJgVsY1nX-QLtlejqg5bu7Zydm3Q1uSVzsXmOmUe3ghFKauBxxavJdWR7Gog",
+                    "preview": "https://s1.cs.money/3cb5c42d36cb20e1d83e080aaf1cbc91_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 499,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0684461892,
+                "inspect": "14757916017919259677",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 10980,
+                "priceBeforeDiscount": 10980,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 8952.92
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/3cb5c42d36cb20e1d83e080aaf1cbc91"
+            }
+        },
+        {
+            "id": 1760342,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307238137",
+                "botId": 618,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27644855422,
+                "names": {
+                    "short": "★ Butterfly Knife | Doppler Ruby",
+                    "full": "★ StatTrak™ Butterfly Knife | Doppler Ruby (Factory New)",
+                    "identifier": 7658
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/dc49c55d8bb4dd450326b6f43cb28369_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqOXhMaLum2pD6sl0g_PE8bP5gVO8v11kYjjzJ9KcIFI5YliDqAXoxbrsgpC9up_BmCM17nYh4SndzRLl1xwdcKUx0pRZROip",
+                    "preview": "https://s1.cs.money/dc49c55d8bb4dd450326b6f43cb28369_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 726,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0651241019,
+                "inspect": "724165093857880791",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 10561.2,
+                "priceBeforeDiscount": 10561.2,
+                "extra": null,
+                "discount": 0.2,
+                "computed": 8448.96
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/dc49c55d8bb4dd450326b6f43cb28369"
+            }
+        },
+        {
+            "id": 1760345,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198312081995",
+                "botId": 237,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27644854912,
+                "names": {
+                    "short": "★ M9 Bayonet | Gamma Doppler Emerald",
+                    "full": "★ M9 Bayonet | Gamma Doppler Emerald (Minimal Wear)",
+                    "identifier": 28323
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/285f0b89a8ea13084367cc6376a7498c_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjxPr7Dl2dV18hwmOvN8IXvjVCLpxo7Oy3tIdLEdgdqNAmBqFa_kO3mh8K9uJqbyiMy7HIn5H3VzUPl1B0dO7M7hOveFwvYitsMFw",
+                    "preview": "https://s1.cs.money/285f0b89a8ea13084367cc6376a7498c_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 126,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0797473043,
+                "inspect": "17018201717033910052",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 9757,
+                "priceBeforeDiscount": 9757,
+                "extra": null,
+                "discount": 0.2,
+                "computed": 7805.6
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/285f0b89a8ea13084367cc6376a7498c"
+            }
+        },
+        {
+            "id": 1680265,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198453181912",
+                "botId": 2043,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 23457377788,
+                "names": {
+                    "short": "★ M9 Bayonet | Doppler Ruby",
+                    "full": "★ StatTrak™ M9 Bayonet | Doppler Ruby (Factory New)",
+                    "identifier": 19878
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/02874d49228b0c6040ac23a0737d5277_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjmJrnIqWZQ-sd9j-Db8IjKhF2zowdyYzjyLIGSIAA8YguCqVK9lOa-1JW5vprBz3EyviB07SveyhfkhklNP_sv26JLM0iiyQ",
+                    "preview": "https://s1.cs.money/02874d49228b0c6040ac23a0737d5277_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 791,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0644593611,
+                "inspect": "2765318256734731630",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 9428.75,
+                "priceBeforeDiscount": 9428.75,
+                "extra": null,
+                "discount": 0.2308,
+                "computed": 7252.88
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/02874d49228b0c6040ac23a0737d5277"
+            }
+        },
+        {
+            "id": 1668688,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307917303",
+                "botId": 606,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26910407460,
+                "names": {
+                    "short": "★ Butterfly Knife | Doppler Black Pearl",
+                    "full": "★ StatTrak™ Butterfly Knife | Doppler Black Pearl (Minimal Wear)",
+                    "identifier": 36814
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/c95d39009bc7a0aa295866d6af63cb0d_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqPX4Mrjahm5Q-slOh-jT94DwgU6xryw-DDWqc97RbA9vN1GD8gO2ybq7hsK9tZ_By3ZqsiJw7X3elxzj1xpPb7c506GZSVmAR_selHmOwYo",
+                    "preview": "https://s1.cs.money/c95d39009bc7a0aa295866d6af63cb0d_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 301,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0789688081,
+                "inspect": "12159829762820465687",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 9272.16,
+                "priceBeforeDiscount": 9272.16,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 7560.38
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/c95d39009bc7a0aa295866d6af63cb0d"
+            }
+        },
+        {
+            "id": 1634813,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198306395692",
+                "botId": 271,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26909830313,
+                "names": {
+                    "short": "★ Karambit | Doppler Sapphire",
+                    "full": "★ Karambit | Doppler Sapphire (Minimal Wear)",
+                    "identifier": 19836
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/54371a479df66950e2e159a721913d0c_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20hPbkI7PYhG5u5cRjiOXE_JbwjGu4ohQ0J3egI4ORcQNqYw3W8la5w-frgJK77ZXKwCQysyVwtnbayxKzhxlIarRum7XAHvqFh2jA",
+                    "preview": "https://s1.cs.money/54371a479df66950e2e159a721913d0c_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 676,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0788100213,
+                "inspect": "17017489783721652895",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 9180.63,
+                "priceBeforeDiscount": 9180.63,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 7485.75
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/54371a479df66950e2e159a721913d0c"
+            }
+        },
+        {
+            "id": 1648007,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198306395692",
+                "botId": 271,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26909830305,
+                "names": {
+                    "short": "★ Karambit | Doppler Sapphire",
+                    "full": "★ Karambit | Doppler Sapphire (Minimal Wear)",
+                    "identifier": 19836
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/4091fa8214e0e99de2c0da102a621df9_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20hPbkI7PYhG5u5cRjiOXE_JbwjGu4ohQ0J3egI4ORcQNqYw3W8la5w-frgJK77ZXKwCQysyVwtnbayxKzhxlIarRum7XAHvqFh2jA",
+                    "preview": "https://s1.cs.money/4091fa8214e0e99de2c0da102a621df9_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 568,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.073583208,
+                "inspect": "17017489783721652895",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 9180.63,
+                "priceBeforeDiscount": 9180.63,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 7485.75
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/4091fa8214e0e99de2c0da102a621df9"
+            }
+        },
+        {
+            "id": 1660645,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307917303",
+                "botId": 606,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26910407852,
+                "names": {
+                    "short": "★ Karambit | Doppler Sapphire",
+                    "full": "★ Karambit | Doppler Sapphire (Minimal Wear)",
+                    "identifier": 19836
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/400215a5b68a40050fd6f1711e69e01a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20hPbkI7PYhG5u5cRjiOXE_JbwjGu4ohQ0J3egI4ORcQNqYw3W8la5w-frgJK77ZXKwCQysyVwtnbayxKzhxlIarRum7XAHvqFh2jA",
+                    "preview": "https://s1.cs.money/400215a5b68a40050fd6f1711e69e01a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 678,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0710454658,
+                "inspect": "17017489783721652895",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 9180.63,
+                "priceBeforeDiscount": 9180.63,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 7485.75
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/400215a5b68a40050fd6f1711e69e01a"
+            }
+        },
+        {
+            "id": 1650713,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198310154128",
+                "botId": 921,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26894044059,
+                "names": {
+                    "short": "★ Skeleton Knife | Crimson Web",
+                    "full": "★ Skeleton Knife | Crimson Web (Factory New)",
+                    "identifier": 1079108
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/388a6b4c314516d6e61c3ac7b536c822_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0gPL2IITdn2xZ_Isj3OyT8dqh2VK1-BY-Zjr1dY-VJFU9Mw7T8wfowb_o05S8v5vOnHdlpGB8sg2OaNUu",
+                    "preview": "https://s1.cs.money/388a6b4c314516d6e61c3ac7b536c822_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 216,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0643138587,
+                "inspect": "2372449846371725679",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 9134.97,
+                "priceBeforeDiscount": 9134.97,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 7448.52
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/388a6b4c314516d6e61c3ac7b536c822"
+            }
+        },
+        {
+            "id": 1646584,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198308379343",
+                "botId": 143,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26910136755,
+                "names": {
+                    "short": "★ Butterfly Knife | Crimson Web",
+                    "full": "★ Butterfly Knife | Crimson Web (Factory New)",
+                    "identifier": 17634
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/f22467328a6ebe1522ca00f386ad7ccd_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4iSqODxMajummJW4NE_0uyS9N-j3gy180Vrazj3d9OQdFQ8Z1_VqVe-lem61pDtu5jPwXBk6z5iuyhUtHBvlA",
+                    "preview": "https://s1.cs.money/f22467328a6ebe1522ca00f386ad7ccd_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 422,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0657700151,
+                "inspect": "867546100067001011",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 8553.36,
+                "priceBeforeDiscount": 8553.36,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 6974.28
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/f22467328a6ebe1522ca00f386ad7ccd"
+            }
+        },
+        {
+            "id": 1637540,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198309561239",
+                "botId": 26,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27515036261,
+                "names": {
+                    "short": "★ Karambit | Doppler Ruby",
+                    "full": "★ Karambit | Doppler Ruby (Factory New)",
+                    "identifier": 9670
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/c2fd5cf38a9a0192284cbf2817dddb7f_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20heL2KoTcl3lT5MB4kOzFyoD8j1yg5UNkaz_xIdfEd1A5aQ3U-lPskunphJHptZvPwSM26CUht3_UmUe3gEpSLrs4ZlidBgY",
+                    "preview": "https://s1.cs.money/c2fd5cf38a9a0192284cbf2817dddb7f_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 970,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0400030948,
+                "inspect": "7658457408097301083",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7974.45,
+                "priceBeforeDiscount": 7974.45,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 6502.25
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/c2fd5cf38a9a0192284cbf2817dddb7f"
+            }
+        },
+        {
+            "id": 1859391,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198310984931",
+                "botId": 99,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27612454383,
+                "names": {
+                    "short": "★ Karambit | Doppler Ruby",
+                    "full": "★ Karambit | Doppler Ruby (Factory New)",
+                    "identifier": 9670
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/b9c6e4c4ac1d59f7511fb20ff99327ce_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20heL2KoTcl3lT5MB4kOzFyoD8j1yg5UNkaz_xIdfEd1A5aQ3U-lPskunphJHptZvPwSM26CUht3_UmUe3gEpSLrs4ZlidBgY",
+                    "preview": "https://s1.cs.money/b9c6e4c4ac1d59f7511fb20ff99327ce_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 505,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0445095636,
+                "inspect": "7658457408097301083",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7974.45,
+                "priceBeforeDiscount": 7974.45,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 6931.64
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/b9c6e4c4ac1d59f7511fb20ff99327ce"
+            }
+        },
+        {
+            "id": 1658577,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198454699139",
+                "botId": 497,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27569462279,
+                "names": {
+                    "short": "★ Karambit | Doppler Ruby",
+                    "full": "★ Karambit | Doppler Ruby (Factory New)",
+                    "identifier": 9670
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/51ad065f7e90114051deb61deaf74d96_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20heL2KoTcl3lT5MB4kOzFyoD8j1yg5UNkaz_xIdfEd1A5aQ3U-lPskunphJHptZvPwSM26CUht3_UmUe3gEpSLrs4ZlidBgY",
+                    "preview": "https://s1.cs.money/51ad065f7e90114051deb61deaf74d96_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 370,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0092724441,
+                "inspect": "7658457408097301083",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7974.45,
+                "priceBeforeDiscount": 8515.41,
+                "extra": {
+                    "float": 540.96
+                },
+                "discount": 0.1308,
+                "computed": 7401.85
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/51ad065f7e90114051deb61deaf74d96"
+            }
+        },
+        {
+            "id": 1658766,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198796203607",
+                "botId": 803,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27446162134,
+                "names": {
+                    "short": "★ M9 Bayonet | Crimson Web",
+                    "full": "★ M9 Bayonet | Crimson Web (Factory New)",
+                    "identifier": 13672
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/64c7ca4025bdd539ecab20f09916bafe_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-DjsjjNrnCqWdY781lxLzD8I6s0AK2rkE_Yz-nJdeTJlJrZwuD-Qe9x-6515ftuM_OznphuXQ8pSGKLNyhYhs",
+                    "preview": "https://s1.cs.money/64c7ca4025bdd539ecab20f09916bafe_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 659,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0659063309,
+                "inspect": "9425084192763648972",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7914.2,
+                "priceBeforeDiscount": 7914.2,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 6453.12
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/64c7ca4025bdd539ecab20f09916bafe"
+            }
+        },
+        {
+            "id": 1674385,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307917303",
+                "botId": 606,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26910396268,
+                "names": {
+                    "short": "★ Bayonet | Doppler Ruby",
+                    "full": "★ StatTrak™ Bayonet | Doppler Ruby (Minimal Wear)",
+                    "identifier": 36341
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/07d67170b4065fffe9cde076255404db_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJQ-d6vq42KhfX4NrLLk29u5Mx2gv2P9o6njA3mrxVrNm2iItXAdAY7ZFuEq1e2wri-gsTousjBn3Nqs3Fw5GGdwUIbpPL9uQ",
+                    "preview": "https://s1.cs.money/07d67170b4065fffe9cde076255404db_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 203,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0737546533,
+                "inspect": "12601685565574029614",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7347.07,
+                "priceBeforeDiscount": 7347.07,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 5990.68
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/07d67170b4065fffe9cde076255404db"
+            }
+        },
+        {
+            "id": 1670933,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307725891",
+                "botId": 262,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26909852155,
+                "names": {
+                    "short": "★ Talon Knife | Doppler Ruby",
+                    "full": "★ StatTrak™ Talon Knife | Doppler Ruby (Minimal Wear)",
+                    "identifier": 550556
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/453bb6ac301d4e7b4d48b7bc97e66b38_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjmJrnIqWZQ-sd9j-Db8IjKhF2zowdyNj37cYaQcQ8_NF7Zr1Dqwb270cPv6Z_Izydj7CkjtHrelkThhxwaP_sv26JqHcKn6w",
+                    "preview": "https://s1.cs.money/453bb6ac301d4e7b4d48b7bc97e66b38_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 673,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0735277459,
+                "inspect": "11557616361811516053",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7055.55,
+                "priceBeforeDiscount": 7055.55,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 5752.98
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/453bb6ac301d4e7b4d48b7bc97e66b38"
+            }
+        },
+        {
+            "id": 1745668,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198312987534",
+                "botId": 289,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27640968454,
+                "names": {
+                    "short": "★ Talon Knife | Doppler Sapphire",
+                    "full": "★ StatTrak™ Talon Knife | Doppler Sapphire (Factory New)",
+                    "identifier": 549422
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/61839c481acce237f066307ad2e0b8d1_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjnMqvBnmJD7fp8i_vD-Yn8klGwlB81NDG3Oo6WIw9vMF-BqAfokuzv18LptcnLziEyvCEksC2PlkeziR0eO-I9gvCACQLJ2IFZdow",
+                    "preview": "https://s1.cs.money/61839c481acce237f066307ad2e0b8d1_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 429,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0346042924,
+                "inspect": "633468594881966679",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 6901,
+                "priceBeforeDiscount": 6901,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 5998.56
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/61839c481acce237f066307ad2e0b8d1"
+            }
+        },
+        {
+            "id": 1639992,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198809981716",
+                "botId": 1681,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27508352503,
+                "names": {
+                    "short": "★ M9 Bayonet | Doppler Ruby",
+                    "full": "★ M9 Bayonet | Doppler Ruby (Minimal Wear)",
+                    "identifier": 20660
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/11df50d636a311638738750f616efdd0_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjmJrnIqWZQ-sd9j-Db8IjKhF2zowdyYzjyLIGSIAA8YguCqVK9lOa-1JW5vprBz3EyviB07SveyhfkhklNP_sv26JLM0iiyQ",
+                    "preview": "https://s1.cs.money/11df50d636a311638738750f616efdd0_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 483,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0757026821,
+                "inspect": "14316563797454601166",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 6850,
+                "priceBeforeDiscount": 6850,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 5585.38
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/11df50d636a311638738750f616efdd0"
+            }
+        },
+        {
+            "id": 1680593,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307917303",
+                "botId": 606,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26910407273,
+                "names": {
+                    "short": "★ Talon Knife | Doppler Black Pearl",
+                    "full": "★ StatTrak™ Talon Knife | Doppler Black Pearl (Minimal Wear)",
+                    "identifier": 1080329
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/d421875af6586884141c3c2a53ab3c53_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Kmsj2P7rSnXtU6dd9teTA5475jV2urhcDPzCkfMKLdFQ4NQ2CrAW2xe--hZ-9v56czXUxu3F0sH7UnkHk1BFMb-RshfDMSELeWfKHiE2NFw",
+                    "preview": "https://s1.cs.money/d421875af6586884141c3c2a53ab3c53_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 468,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0750931948,
+                "inspect": "4611758673808078545",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 6597.47,
+                "priceBeforeDiscount": 6597.47,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 5379.48
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/d421875af6586884141c3c2a53ab3c53"
+            }
+        },
+        {
+            "id": 1640027,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198306864417",
+                "botId": 307,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26909817799,
+                "names": {
+                    "short": "★ Paracord Knife | Crimson Web",
+                    "full": "★ Paracord Knife | Crimson Web (Factory New)",
+                    "identifier": 1077543
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/c6f83eb46e1a3dab16031b42000c141b_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOhkYKYqPv9NLPF2GgEvMB32-vDot6iiwDnqRdsNmH0I4LEdQM5aQ3R_FntyLvqjMXou53XiSw0qGbln2I",
+                    "preview": "https://s1.cs.money/c6f83eb46e1a3dab16031b42000c141b_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 346,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.063826181,
+                "inspect": "10088208706250222021",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 6357.38,
+                "priceBeforeDiscount": 6357.38,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 5183.71
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/c6f83eb46e1a3dab16031b42000c141b"
+            }
+        },
+        {
+            "id": 1644054,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198306395692",
+                "botId": 271,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27537313164,
+                "names": {
+                    "short": "★ Bayonet | Doppler Sapphire",
+                    "full": "★ StatTrak™ Bayonet | Doppler Sapphire (Factory New)",
+                    "identifier": 19648
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/448d3ca347ed34c0d04b1057764c51a0_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJR7cymnImZksj5MqnTmm5Y8sB1teXI8oThxlHtrkNoMWyhItDDcFJoaFjW_Vm7yL2-18W6uc6ayHcwuCQntH-Om0SpwUYb_FLG0qs",
+                    "preview": "https://s1.cs.money/448d3ca347ed34c0d04b1057764c51a0_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 410,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0288407505,
+                "inspect": "4774522330937368904",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 6170,
+                "priceBeforeDiscount": 6248.06,
+                "extra": {
+                    "float": 78.06
+                },
+                "discount": 0.2308,
+                "computed": 4806.2
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/448d3ca347ed34c0d04b1057764c51a0"
+            }
+        },
+        {
+            "id": 1650051,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198452944368",
+                "botId": 2044,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27430797370,
+                "names": {
+                    "short": "★ Bayonet | Doppler Sapphire",
+                    "full": "★ Bayonet | Doppler Sapphire (Factory New)",
+                    "identifier": 13269
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/e5476c3ca41a91b076835d5325daac6e_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJR7cymnImZksj5MqnTmm5Y8sB1teXI8oThxlHtrkNoMWyhItDDcFJoaFjW_Vm7yL2-18W6uc6ayHcwuCQntH-Om0SpwUYb_FLG0qs",
+                    "preview": "https://s1.cs.money/e5476c3ca41a91b076835d5325daac6e_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 56,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0520922951,
+                "inspect": "1271352723499776",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 6139.68,
+                "priceBeforeDiscount": 6139.68,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 5006.2
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/e5476c3ca41a91b076835d5325daac6e"
+            }
+        },
+        {
+            "id": 1657148,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307130008",
+                "botId": 532,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27562916949,
+                "names": {
+                    "short": "★ Bayonet | Gamma Doppler Emerald",
+                    "full": "★ StatTrak™ Bayonet | Gamma Doppler Emerald (Factory New)",
+                    "identifier": 19769
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/0778f35831f99979f5f782c582bc13f6_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJH4dmklYyPqPr1Ibndk2JL7cFOhuDG_Zi72VDh8kduZW37JIeWJ1Q9Yl2G8gToxrrmhpfvtZ6YynI1siRw7HbVmwv330-du9HHOA",
+                    "preview": "https://s1.cs.money/0778f35831f99979f5f782c582bc13f6_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 638,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0328329504,
+                "inspect": "11981942162806098348",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 5696.95,
+                "priceBeforeDiscount": 5696.95,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 4645.21
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/0778f35831f99979f5f782c582bc13f6"
+            }
+        },
+        {
+            "id": 1717574,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198312084911",
+                "botId": 676,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27643064769,
+                "names": {
+                    "short": "★ Bayonet | Gamma Doppler Emerald",
+                    "full": "★ StatTrak™ Bayonet | Gamma Doppler Emerald (Factory New)",
+                    "identifier": 19769
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/7857a4ebd591a4ba5f5bd4aaa7b9c778_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJH4dmklYyPqPr1Ibndk2JL7cFOhuDG_Zi72VDh8kduZW37JIeWJ1Q9Yl2G8gToxrrmhpfvtZ6YynI1siRw7HbVmwv330-du9HHOA",
+                    "preview": "https://s1.cs.money/7857a4ebd591a4ba5f5bd4aaa7b9c778_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 987,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0144319367,
+                "inspect": "5386908671287717358",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 5696.95,
+                "priceBeforeDiscount": 5696.95,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 4951.96
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/7857a4ebd591a4ba5f5bd4aaa7b9c778"
+            }
+        },
+        {
+            "id": 1672483,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198310154128",
+                "botId": 921,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26894044097,
+                "names": {
+                    "short": "★ Bayonet | Gamma Doppler Emerald",
+                    "full": "★ Bayonet | Gamma Doppler Emerald (Factory New)",
+                    "identifier": 8745
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/5bdf64f187a2f889fd938579630939c8_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJH4dmklYyPqPr1Ibndk2JL7cFOhuDG_Zi72VDh8kduZW37JIeWJ1Q9Yl2G8gToxrrmhpfvtZ6YynI1siRw7HbVmwv330-du9HHOA",
+                    "preview": "https://s1.cs.money/5bdf64f187a2f889fd938579630939c8_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 965,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0573987365,
+                "inspect": "5669158923276364680",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 5544.14,
+                "priceBeforeDiscount": 5544.14,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 4520.61
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/5bdf64f187a2f889fd938579630939c8"
+            }
+        },
+        {
+            "id": 1644187,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198306414852",
+                "botId": 301,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26909844481,
+                "names": {
+                    "short": "★ Talon Knife | Ultraviolet",
+                    "full": "★ StatTrak™ Talon Knife | Ultraviolet (Factory New)",
+                    "identifier": 545851
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/b314098a59656d531d35e57aefce2dc0_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u5Mx2gv2Prd-m0FHk_BA9NWGlItWUcA85ZFyC_FG7xu7mg5e-7picyiZivCcrsWGdwUK1XS5BDA",
+                    "preview": "https://s1.cs.money/b314098a59656d531d35e57aefce2dc0_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 928,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0654727072,
+                "inspect": "16638802521707534001",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 5335.56,
+                "priceBeforeDiscount": 5335.56,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 4350.53
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/b314098a59656d531d35e57aefce2dc0"
+            }
+        },
+        {
+            "id": 1676369,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198808961186",
+                "botId": 1589,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27573339123,
+                "names": {
+                    "short": "★ Bayonet | Doppler Sapphire",
+                    "full": "★ Bayonet | Doppler Sapphire (Minimal Wear)",
+                    "identifier": 19844
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/a05f78f75c48aa7924c4ed3212747aab_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJR7cymnImZksj5MqnTmm5Y8sB1teXI8oThxlHtrkNoMWyhItDDcFJoaFjW_Vm7yL2-18W6uc6ayHcwuCQntH-Om0SpwUYb_FLG0qs",
+                    "preview": "https://s1.cs.money/a05f78f75c48aa7924c4ed3212747aab_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 687,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0742918178,
+                "inspect": "9803952005605869320",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 5194,
+                "priceBeforeDiscount": 5194,
+                "extra": null,
+                "discount": 0.2,
+                "computed": 4155.2
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/a05f78f75c48aa7924c4ed3212747aab"
+            }
+        },
+        {
+            "id": 1634858,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198810010982",
+                "botId": 1657,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27381021450,
+                "names": {
+                    "short": "★ Karambit | Doppler Black Pearl",
+                    "full": "★ StatTrak™ Karambit | Doppler Black Pearl (Factory New)",
+                    "identifier": 22486
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/16fc3e2996ade5e8d98edea41c2c2e11_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20lfv1MLDBk2pD5Pp8i_vD-Yn8klGwlB81NDG3OtWTJAdsNVCG-Vjvwrvsh8Dv6szBznVivSMnt3eOlx22hhhNbu1o0PaACQLJyiL9rI8",
+                    "preview": "https://s1.cs.money/16fc3e2996ade5e8d98edea41c2c2e11_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 328,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0356822088,
+                "inspect": "886336989384922295",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 5161,
+                "priceBeforeDiscount": 5161,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 4486.1
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/16fc3e2996ade5e8d98edea41c2c2e11"
+            }
+        },
+        {
+            "id": 1678905,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307149361",
+                "botId": 903,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26909884095,
+                "names": {
+                    "short": "★ Talon Knife | Doppler Ruby",
+                    "full": "★ Talon Knife | Doppler Ruby (Factory New)",
+                    "identifier": 201867
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/d1748bff1a523c12605c92c329c3ddef_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjmJrnIqWZQ-sd9j-Db8IjKhF2zowdyNj37cYaQcQ8_NF7Zr1Dqwb270cPv6Z_Izydj7CkjtHrelkThhxwaP_sv26JqHcKn6w",
+                    "preview": "https://s1.cs.money/d1748bff1a523c12605c92c329c3ddef_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 886,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.063474454,
+                "inspect": "13901522264769867891",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 5109,
+                "priceBeforeDiscount": 5109,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 4165.8
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/d1748bff1a523c12605c92c329c3ddef"
+            }
+        },
+        {
+            "id": 1682900,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198311413074",
+                "botId": 674,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27610682603,
+                "names": {
+                    "short": "★ Talon Knife | Doppler Ruby",
+                    "full": "★ Talon Knife | Doppler Ruby (Factory New)",
+                    "identifier": 201867
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/90ff684373b0cad1b4199996f89b876b_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjmJrnIqWZQ-sd9j-Db8IjKhF2zowdyNj37cYaQcQ8_NF7Zr1Dqwb270cPv6Z_Izydj7CkjtHrelkThhxwaP_sv26JqHcKn6w",
+                    "preview": "https://s1.cs.money/90ff684373b0cad1b4199996f89b876b_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 215,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0545641929,
+                "inspect": "13837431894994376735",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 5109,
+                "priceBeforeDiscount": 5109,
+                "extra": null,
+                "discount": 0.1385,
+                "computed": 4401.6
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/90ff684373b0cad1b4199996f89b876b"
+            }
+        },
+        {
+            "id": 1664557,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198306395692",
+                "botId": 271,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27537313244,
+                "names": {
+                    "short": "★ Talon Knife | Doppler Ruby",
+                    "full": "★ Talon Knife | Doppler Ruby (Factory New)",
+                    "identifier": 201867
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/a67b707daa636f4fd724107f6e77bde0_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjmJrnIqWZQ-sd9j-Db8IjKhF2zowdyNj37cYaQcQ8_NF7Zr1Dqwb270cPv6Z_Izydj7CkjtHrelkThhxwaP_sv26JqHcKn6w",
+                    "preview": "https://s1.cs.money/a67b707daa636f4fd724107f6e77bde0_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 955,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0178726129,
+                "inspect": "13901522264769867891",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 5109,
+                "priceBeforeDiscount": 5109,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 4440.9
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/a67b707daa636f4fd724107f6e77bde0"
+            }
+        },
+        {
+            "id": 1857953,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198311102443",
+                "botId": 838,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27675266688,
+                "names": {
+                    "short": "★ Talon Knife | Doppler Ruby",
+                    "full": "★ Talon Knife | Doppler Ruby (Factory New)",
+                    "identifier": 201867
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/005e36f4b294313bdb44a0c70085a6ba_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjmJrnIqWZQ-sd9j-Db8IjKhF2zowdyNj37cYaQcQ8_NF7Zr1Dqwb270cPv6Z_Izydj7CkjtHrelkThhxwaP_sv26JqHcKn6w",
+                    "preview": "https://s1.cs.money/005e36f4b294313bdb44a0c70085a6ba_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 140,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0358121134,
+                "inspect": "7938866335569031259",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 5109,
+                "priceBeforeDiscount": 5109,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 4440.9
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/005e36f4b294313bdb44a0c70085a6ba"
+            }
+        },
+        {
+            "id": 1646265,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198796694395",
+                "botId": 2130,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27337480732,
+                "names": {
+                    "short": "★ Talon Knife | Doppler Ruby",
+                    "full": "★ StatTrak™ Talon Knife | Doppler Ruby (Factory New)",
+                    "identifier": 545694
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/9814f78e1e529ec4c46073abdf324c9b_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjmJrnIqWZQ-sd9j-Db8IjKhF2zowdyNj37cYaQcQ8_NF7Zr1Dqwb270cPv6Z_Izydj7CkjtHrelkThhxwaP_sv26JqHcKn6w",
+                    "preview": "https://s1.cs.money/9814f78e1e529ec4c46073abdf324c9b_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 559,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0601629615,
+                "inspect": "9829324929628913177",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4990.29,
+                "priceBeforeDiscount": 4990.29,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 4069.01
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/9814f78e1e529ec4c46073abdf324c9b"
+            }
+        },
+        {
+            "id": 1696390,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198311850875",
+                "botId": 383,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 25182073646,
+                "names": {
+                    "short": "★ M9 Bayonet | Doppler Black Pearl",
+                    "full": "★ M9 Bayonet | Doppler Black Pearl (Minimal Wear)",
+                    "identifier": 21463
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/f2110145ac9e7ba8aae6dc2377e29a89_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Kmsj2P7rSnXtU6dd9teTA5475jV2urhcDPzCkfMKLIwRvYwrWqVS8wezpjcS_78_Mn3Bruykj7HbfzhPm00xLOLc-jPXNHELeWfLcbrqw2A",
+                    "preview": "https://s1.cs.money/f2110145ac9e7ba8aae6dc2377e29a89_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 79,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.071971707,
+                "inspect": "5053855374201543456",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4808.12,
+                "priceBeforeDiscount": 4808.12,
+                "extra": null,
+                "discount": 0.2308,
+                "computed": 3698.55
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/f2110145ac9e7ba8aae6dc2377e29a89"
+            }
+        },
+        {
+            "id": 1675331,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198258499849",
+                "botId": 214,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27356137012,
+                "names": {
+                    "short": "★ Butterfly Knife | Lore",
+                    "full": "★ Butterfly Knife | Lore (Minimal Wear)",
+                    "identifier": 1087460
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/d110a89550de227df757c4b5447ae6aa_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4OeqPXhJ6_UhG1d8fp9hfvEyoD8j1yg5UQ4Nmn1co7AJARrZVyEqVLvwb_p15G5tZzNySNgv3F3syrYlhWzhE1SLrs4lgTqAhU",
+                    "preview": "https://s1.cs.money/d110a89550de227df757c4b5447ae6aa_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 383,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.1490020156,
+                "inspect": "14009161970503798323",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4792,
+                "priceBeforeDiscount": 4792,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 3907.32
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/d110a89550de227df757c4b5447ae6aa"
+            }
+        },
+        {
+            "id": 1666726,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198310436037",
+                "botId": 32,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27371438304,
+                "names": {
+                    "short": "★ Butterfly Knife | Lore",
+                    "full": "★ Butterfly Knife | Lore (Minimal Wear)",
+                    "identifier": 1087460
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/a8bbc03f9598e0b6ca826ce4df8f1bd7_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4OeqPXhJ6_UhG1d8fp9hfvEyoD8j1yg5UQ4Nmn1co7AJARrZVyEqVLvwb_p15G5tZzNySNgv3F3syrYlhWzhE1SLrs4lgTqAhU",
+                    "preview": "https://s1.cs.money/a8bbc03f9598e0b6ca826ce4df8f1bd7_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 870,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.1414276212,
+                "inspect": "14009161970503798323",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4792,
+                "priceBeforeDiscount": 4792,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 4165.35
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/a8bbc03f9598e0b6ca826ce4df8f1bd7"
+            }
+        },
+        {
+            "id": 1675333,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198306395692",
+                "botId": 271,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27537313167,
+                "names": {
+                    "short": "★ Butterfly Knife | Lore",
+                    "full": "★ Butterfly Knife | Lore (Minimal Wear)",
+                    "identifier": 1087460
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/c1addfda5359d6af5d11e8239e890b25_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4OeqPXhJ6_UhG1d8fp9hfvEyoD8j1yg5UQ4Nmn1co7AJARrZVyEqVLvwb_p15G5tZzNySNgv3F3syrYlhWzhE1SLrs4lgTqAhU",
+                    "preview": "https://s1.cs.money/c1addfda5359d6af5d11e8239e890b25_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 296,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.1120629758,
+                "inspect": "14009161970503798323",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4792,
+                "priceBeforeDiscount": 4792,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 4165.35
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/c1addfda5359d6af5d11e8239e890b25"
+            }
+        },
+        {
+            "id": 1652479,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198797050484",
+                "botId": 2194,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27324807004,
+                "names": {
+                    "short": "★ Bayonet | Gamma Doppler Emerald",
+                    "full": "★ Bayonet | Gamma Doppler Emerald (Minimal Wear)",
+                    "identifier": 19898
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/6a82a780c4411c020f034473bdd76d78_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJH4dmklYyPqPr1Ibndk2JL7cFOhuDG_Zi72VDh8kduZW37JIeWJ1Q9Yl2G8gToxrrmhpfvtZ6YynI1siRw7HbVmwv330-du9HHOA",
+                    "preview": "https://s1.cs.money/6a82a780c4411c020f034473bdd76d78_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 245,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0771262124,
+                "inspect": "12268483549018007458",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4618.1,
+                "priceBeforeDiscount": 4618.1,
+                "extra": null,
+                "discount": 0.2385,
+                "computed": 3516.86
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/6a82a780c4411c020f034473bdd76d78"
+            }
+        },
+        {
+            "id": 1850058,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307917303",
+                "botId": 606,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26910395983,
+                "names": {
+                    "short": "★ Bayonet | Doppler Ruby",
+                    "full": "★ Bayonet | Doppler Ruby (Factory New)",
+                    "identifier": 843
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/6de31bd5bb70feb97fa4a7e9a0f931d2_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJQ-d6vq42KhfX4NrLLk29u5Mx2gv2P9o6njA3mrxVrNm2iItXAdAY7ZFuEq1e2wri-gsTousjBn3Nqs3Fw5GGdwUIbpPL9uQ",
+                    "preview": "https://s1.cs.money/6de31bd5bb70feb97fa4a7e9a0f931d2_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 702,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0317753889,
+                "inspect": "14276449172813729096",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4616.43,
+                "priceBeforeDiscount": 4616.43,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 3764.17
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/6de31bd5bb70feb97fa4a7e9a0f931d2"
+            }
+        },
+        {
+            "id": 1698043,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198795619477",
+                "botId": 545,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27310348423,
+                "names": {
+                    "short": "★ Bayonet | Doppler Ruby",
+                    "full": "★ Bayonet | Doppler Ruby (Factory New)",
+                    "identifier": 843
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/0ae02b45a2449bbe89eb6044f5b5717d_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJQ-d6vq42KhfX4NrLLk29u5Mx2gv2P9o6njA3mrxVrNm2iItXAdAY7ZFuEq1e2wri-gsTousjBn3Nqs3Fw5GGdwUIbpPL9uQ",
+                    "preview": "https://s1.cs.money/0ae02b45a2449bbe89eb6044f5b5717d_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 801,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0349474698,
+                "inspect": "14276449172813729096",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4616.43,
+                "priceBeforeDiscount": 4616.43,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 4012.75
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/0ae02b45a2449bbe89eb6044f5b5717d"
+            }
+        },
+        {
+            "id": 1671120,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198311185298",
+                "botId": 392,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27336609578,
+                "names": {
+                    "short": "★ Skeleton Knife | Fade",
+                    "full": "★ StatTrak™ Skeleton Knife | Fade (Minimal Wear)",
+                    "identifier": 1078630
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/3c4cdc050090622691087d0cae8b5b9d_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlYG0kfbwNoTdn2xZ_Ish3LyQotugjlXmr0NpZmjwIY_AIQ84ZF3ZrFi2wu26h57q7Z3OwHNkpGB8spXTbTbn",
+                    "preview": "https://s1.cs.money/3c4cdc050090622691087d0cae8b5b9d_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 831,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0760201067,
+                "inspect": "17168498432613699913",
+                "rank": null,
+                "fade": 92
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4302.88,
+                "priceBeforeDiscount": 4302.88,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 3508.5
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/3c4cdc050090622691087d0cae8b5b9d"
+            }
+        },
+        {
+            "id": 1673784,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198311185298",
+                "botId": 392,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27336612069,
+                "names": {
+                    "short": "★ Skeleton Knife | Fade",
+                    "full": "★ StatTrak™ Skeleton Knife | Fade (Minimal Wear)",
+                    "identifier": 1078630
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/619b8154a849ded30d8e7b79fcad9b0a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlYG0kfbwNoTdn2xZ_Ish3LyQotugjlXmr0NpZmjwIY_AIQ84ZF3ZrFi2wu26h57q7Z3OwHNkpGB8spXTbTbn",
+                    "preview": "https://s1.cs.money/619b8154a849ded30d8e7b79fcad9b0a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 616,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0714632496,
+                "inspect": "5496901696294525933",
+                "rank": null,
+                "fade": 86
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4302.88,
+                "priceBeforeDiscount": 4302.88,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 3508.5
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/619b8154a849ded30d8e7b79fcad9b0a"
+            }
+        },
+        {
+            "id": 1869191,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307219131",
+                "botId": 555,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26910171821,
+                "names": {
+                    "short": "★ Skeleton Knife | Fade",
+                    "full": "★ StatTrak™ Skeleton Knife | Fade (Minimal Wear)",
+                    "identifier": 1078630
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/19e3eca33ad32a540aadfd225d0080b6_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlYG0kfbwNoTdn2xZ_Ish3LyQotugjlXmr0NpZmjwIY_AIQ84ZF3ZrFi2wu26h57q7Z3OwHNkpGB8spXTbTbn",
+                    "preview": "https://s1.cs.money/19e3eca33ad32a540aadfd225d0080b6_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 98,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0716348663,
+                "inspect": "17168498432613699913",
+                "rank": null,
+                "fade": 84
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4302.88,
+                "priceBeforeDiscount": 4302.88,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 3508.5
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/19e3eca33ad32a540aadfd225d0080b6"
+            }
+        },
+        {
+            "id": 1634999,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198308301708",
+                "botId": 527,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26910322270,
+                "names": {
+                    "short": "★ Talon Knife | Crimson Web",
+                    "full": "★ Talon Knife | Crimson Web (Factory New)",
+                    "identifier": 197329
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/7d5b18344d409553ad9f40c23ed6f08f_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-DjsjjNrnCqWdY781lxLGWoIj3jVDi8xA9Zm3zIdeTJgRrZ16F_1W7x7_r0JG9vs7OzHpgviI8pSGKNRkWESg",
+                    "preview": "https://s1.cs.money/7d5b18344d409553ad9f40c23ed6f08f_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 791,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0695101023,
+                "inspect": "16924743577848814681",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4277.68,
+                "priceBeforeDiscount": 4277.68,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 3487.95
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/7d5b18344d409553ad9f40c23ed6f08f"
+            }
+        },
+        {
+            "id": 1658928,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198260896775",
+                "botId": 380,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26909848882,
+                "names": {
+                    "short": "★ Talon Knife | Crimson Web",
+                    "full": "★ Talon Knife | Crimson Web (Factory New)",
+                    "identifier": 197329
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/4573e892e6ca9fb33a5b1a0a0e09f4ce_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-DjsjjNrnCqWdY781lxLGWoIj3jVDi8xA9Zm3zIdeTJgRrZ16F_1W7x7_r0JG9vs7OzHpgviI8pSGKNRkWESg",
+                    "preview": "https://s1.cs.money/4573e892e6ca9fb33a5b1a0a0e09f4ce_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 920,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0645013526,
+                "inspect": "16924743577848814681",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4277.68,
+                "priceBeforeDiscount": 4277.68,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 3487.95
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/4573e892e6ca9fb33a5b1a0a0e09f4ce"
+            }
+        },
+        {
+            "id": 1641949,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198311425364",
+                "botId": 109,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27582830151,
+                "names": {
+                    "short": "★ Talon Knife | Doppler Black Pearl",
+                    "full": "★ StatTrak™ Talon Knife | Doppler Black Pearl (Factory New)",
+                    "identifier": 546734
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/24b4cbce23fce7063b056a204036a44b_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Kmsj2P7rSnXtU6dd9teTA5475jV2urhcDPzCkfMKLdFQ4NQ2CrAW2xe--hZ-9v56czXUxu3F0sH7UnkHk1BFMb-RshfDMSELeWfKHiE2NFw",
+                    "preview": "https://s1.cs.money/24b4cbce23fce7063b056a204036a44b_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 637,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0285988655,
+                "inspect": "2803572260956068031",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4097.8,
+                "priceBeforeDiscount": 4097.8,
+                "extra": null,
+                "discount": 0.2308,
+                "computed": 3152.15
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/24b4cbce23fce7063b056a204036a44b"
+            }
+        },
+        {
+            "id": 1680150,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198796203775",
+                "botId": 939,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27421949228,
+                "names": {
+                    "short": "★ Bayonet | Doppler Ruby",
+                    "full": "★ Bayonet | Doppler Ruby (Minimal Wear)",
+                    "identifier": 20781
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/b1e67be201ac374ba924af0bc7206f39_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJQ-d6vq42KhfX4NrLLk29u5Mx2gv2P9o6njA3mrxVrNm2iItXAdAY7ZFuEq1e2wri-gsTousjBn3Nqs3Fw5GGdwUIbpPL9uQ",
+                    "preview": "https://s1.cs.money/b1e67be201ac374ba924af0bc7206f39_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 707,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0729322955,
+                "inspect": "3056334760949425952",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 3989.85,
+                "priceBeforeDiscount": 3989.85,
+                "extra": null,
+                "discount": 0.2308,
+                "computed": 3069.12
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/b1e67be201ac374ba924af0bc7206f39"
+            }
+        }
+    ]
+}
