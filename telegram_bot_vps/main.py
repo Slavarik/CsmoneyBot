@@ -2,14 +2,7 @@ import requests
 from fake_useragent import UserAgent
 import json
 
-ua = UserAgent()
-
-
 def collect_data(weapon_type=2):
-    # response = requests.get(url='https://cs.money/1.0/market/sell-orders?limit=60&offset=0&type=2', headers={'user-agent': f'{ua.random}'})
-
-    # with open('result1.json', 'w', encoding="utf-8") as file:
-    # json.dump(response.json(), file, indent=4, ensure_ascii=False)
 
     offset = 0
     batch_size = 60
@@ -18,8 +11,6 @@ def collect_data(weapon_type=2):
 
     while True:
         for item in range(offset, offset + batch_size, 60):
-            # url = item
-            # print(url)
 
             url = f'https://cs.money/1.0/market/sell-orders?deliverySpeed=instant&deliverySpeed=fast&limit=60&maxPrice=1000&minPrice=150&offset={item}&type={weapon_type}'
             response = requests.get(

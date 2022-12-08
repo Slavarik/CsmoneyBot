@@ -12,7 +12,7 @@ dp = Dispatcher(bot)
 
 @dp.message_handler(commands='start')
 async def start(message: types.Message):
-    start_buttons = ['🔪 Ножи', '🧤 Перчатки', '🔫 Снайперские винтовки']
+    start_buttons = ['🔪 Ножи', '🧤 Перчатки', '🔫 Снайперские винтовки', '👊 Пистолеты', '🦅 Пистолеты-Пулемёты', '🤖 Штурмовые Винтовки', '🩸 Дробовики', '☠ Пулемёты']
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
     keyboard.add(*start_buttons)
 
@@ -78,6 +78,100 @@ async def get_discount_gloves(message: types.Message):
 
         await message.answer(card)
 
+@dp.message_handler(Text(equals='👊 Пистолеты'))
+async def get_discount_rifles(message: types.Message):
+    await message.answer('Пожалуйста подождите...')
+
+    collect_data(weapon_type=5)
+
+    with open('result.json', encoding='utf-8') as file:
+        data = json.load(file)
+
+    for index, item in enumerate(data):
+        card = f'{hlink(item.get("name"), item.get("3d"))}\n' \
+               f'{hbold("Цена: ")}${item.get("computed")}🔥' \
+               f'{hbold("Скидка: ")}{item.get("discount") * 100}%\n'
+
+        if index % 20 == 0:
+            time.sleep(5)
+
+        await message.answer(card)
+
+@dp.message_handler(Text(equals='🦅 Пистолеты-Пулемёты'))
+async def get_discount_rifles(message: types.Message):
+    await message.answer('Пожалуйста подождите...')
+
+    collect_data(weapon_type=6)
+
+    with open('result.json', encoding='utf-8') as file:
+        data = json.load(file)
+
+    for index, item in enumerate(data):
+        card = f'{hlink(item.get("name"), item.get("3d"))}\n' \
+               f'{hbold("Цена: ")}${item.get("computed")}🔥' \
+               f'{hbold("Скидка: ")}{item.get("discount") * 100}%\n'
+
+        if index % 20 == 0:
+            time.sleep(5)
+
+        await message.answer(card)
+
+@dp.message_handler(Text(equals='🤖 Штурмовые Винтовки'))
+async def get_discount_rifles(message: types.Message):
+    await message.answer('Пожалуйста подождите...')
+
+    collect_data(weapon_type=3)
+
+    with open('result.json', encoding='utf-8') as file:
+        data = json.load(file)
+
+    for index, item in enumerate(data):
+        card = f'{hlink(item.get("name"), item.get("3d"))}\n' \
+               f'{hbold("Цена: ")}${item.get("computed")}🔥' \
+               f'{hbold("Скидка: ")}{item.get("discount") * 100}%\n'
+
+        if index % 20 == 0:
+            time.sleep(5)
+
+        await message.answer(card)
+
+@dp.message_handler(Text(equals='🩸 Дробовики'))
+async def get_discount_rifles(message: types.Message):
+    await message.answer('Пожалуйста подождите...')
+
+    collect_data(weapon_type=7)
+
+    with open('result.json', encoding='utf-8') as file:
+        data = json.load(file)
+
+    for index, item in enumerate(data):
+        card = f'{hlink(item.get("name"), item.get("3d"))}\n' \
+               f'{hbold("Цена: ")}${item.get("computed")}🔥' \
+               f'{hbold("Скидка: ")}{item.get("discount") * 100}%\n'
+
+        if index % 20 == 0:
+            time.sleep(5)
+
+        await message.answer(card)
+
+@dp.message_handler(Text(equals='☠ Пулемёты'))
+async def get_discount_rifles(message: types.Message):
+    await message.answer('Пожалуйста подождите...')
+
+    collect_data(weapon_type=8)
+
+    with open('result.json', encoding='utf-8') as file:
+        data = json.load(file)
+
+    for index, item in enumerate(data):
+        card = f'{hlink(item.get("name"), item.get("3d"))}\n' \
+               f'{hbold("Цена: ")}${item.get("computed")}🔥' \
+               f'{hbold("Скидка: ")}{item.get("discount") * 100}%\n'
+
+        if index % 20 == 0:
+            time.sleep(5)
+
+        await message.answer(card)
 
 def main():
     executor.start_polling(dp)
