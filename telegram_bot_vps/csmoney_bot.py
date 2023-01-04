@@ -4,6 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.dispatcher.filters import Text
 from main import collect_data
 import time
+import sqlite3
 
 API_Token = "5814281280:AAEznuAMmf0FZe3olCqBSn8DaSXymQKqess"
 bot = Bot(token=API_Token, parse_mode=types.ParseMode.HTML)
@@ -15,6 +16,28 @@ async def start(message: types.Message):
     start_buttons = ['🔪 Ножи', '🧤 Перчатки', '🔫 Снайперские винтовки', '👊 Пистолеты', '🦅 Пистолеты-Пулемёты', '🤖 Штурмовые Винтовки', '🩸 Дробовики', '☠ Пулемёты']
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
     keyboard.add(*start_buttons)
+
+    connect = sqlite3.connect('users.db')
+    cursor = connect.cursor()
+
+    cursor.execute("""CREATE TABLE IF NOT EXISTS login_id(
+        id INTEGER
+    )""")
+
+    connect.commit()
+
+    #check id
+    people_id = message.chat.id
+    cursor.execute(f"SELECT id FROM login_id WHERE id = {people_id}")
+    data = cursor.fetchone()
+    print(data)
+    if data is None:
+        user_id = [message.chat.id]
+        cursor.execute("INSERT INTO login_id VALUES(?);", user_id)
+        connect.commit()
+    else:
+        message.answer(message.chat.id, 'Такой пользователь уже существует')
+
 
     await message.answer('Выбеирте категорию', reply_markup=keyboard)
 

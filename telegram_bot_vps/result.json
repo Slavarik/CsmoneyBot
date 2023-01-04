@@ -1,163 +1,352 @@
 [
     {
-        "name": "★ Talon Knife | Doppler Phase 1 (Factory New)",
-        "3d": "https://3d.cs.money/item/28bc4206b254ffaeda4477ab88b44098",
-        "computed": 694.06,
-        "discount": 0.1983,
-        "id": 2066780
-    },
-    {
-        "name": "★ StatTrak™ Bayonet | Black Laminate (Factory New)",
-        "3d": "https://3d.cs.money/item/47ad24f87f0671bb233a780ee4a7271c",
-        "computed": 599.99,
-        "discount": 0.249,
-        "id": 1754148
-    },
-    {
-        "name": "★ StatTrak™ Ursus Knife | Case Hardened (Factory New)",
-        "3d": "https://3d.cs.money/item/39f78617d9ac86c510ff7d90bd6bb197",
-        "computed": 574.5,
+        "name": "★ Moto Gloves | Eclipse (Factory New)",
+        "3d": "https://3d.cs.money/item/3f42bbbcc96b51a94dcbffc641c68a7a",
+        "computed": 987.92,
         "discount": 0.2308,
-        "id": 2067464
+        "id": 2641777
     },
     {
-        "name": "★ StatTrak™ Ursus Knife | Doppler Phase 3 (Minimal Wear)",
-        "3d": "https://3d.cs.money/item/031661b22af72911fc91eb0b23bf5b84",
-        "computed": 528.12,
+        "name": "★ Moto Gloves | Eclipse (Factory New)",
+        "3d": "https://3d.cs.money/item/28a05302e74c7c04dbcfde43bae3b7b6",
+        "computed": 987.92,
         "discount": 0.2308,
-        "id": 1680403
+        "id": 2936804
     },
     {
-        "name": "★ StatTrak™ Survival Knife | Stained (Factory New)",
-        "3d": "https://3d.cs.money/item/90e8cd02764785af2d8c0cd1c6dda862",
-        "computed": 376.11,
+        "name": "★ Bloodhound Gloves | Charred (Factory New)",
+        "3d": "https://3d.cs.money/item/7297dd8278905493b6c66cde7e8effae",
+        "computed": 977.99,
         "discount": 0.2308,
-        "id": 1755335
+        "id": 2126523
     },
     {
-        "name": "★ Survival Knife | Fade (Factory New)",
-        "3d": "https://3d.cs.money/item/a7001df62c99eb3b1129ada5b2aa1066",
-        "computed": 540.79,
+        "name": "★ Bloodhound Gloves | Charred (Factory New)",
+        "3d": "https://3d.cs.money/item/9e6df5cc687edddd950775ff0c74832d",
+        "computed": 977.99,
         "discount": 0.2308,
-        "id": 1749676
+        "id": 2772609
     },
     {
-        "name": "★ Survival Knife | Fade (Factory New)",
-        "3d": "https://3d.cs.money/item/1fed0c5da9dae95f0b6a39b5ada99e00",
-        "computed": 549.95,
+        "name": "★ Broken Fang Gloves | Yellow-banded (Factory New)",
+        "3d": "https://3d.cs.money/item/a501da06bb866d759aa70e4fb3810daa",
+        "computed": 914.63,
         "discount": 0.2308,
-        "id": 1644546
+        "id": 2689369
     },
     {
-        "name": "★ Survival Knife | Fade (Factory New)",
-        "3d": "https://3d.cs.money/item/223e0ea7b504866a6402f9da22943fa5",
-        "computed": 561.56,
+        "name": "★ Sport Gloves | Bronze Morph (Factory New)",
+        "3d": "https://3d.cs.money/item/01e67108edb895fdb442125b442aeb31",
+        "computed": 856.61,
         "discount": 0.2308,
-        "id": 1682317
+        "id": 2923413
     },
     {
-        "name": "★ Survival Knife | Fade (Factory New)",
-        "3d": "https://3d.cs.money/item/6fc42e076e1fabbfad8232f6ab6c91d3",
-        "computed": 573.15,
-        "discount": 0.2,
-        "id": 1987539
-    },
-    {
-        "name": "★ Survival Knife | Fade (Factory New)",
-        "3d": "https://3d.cs.money/item/417b2f5d843a15391704c7360fb315ec",
-        "computed": 581.41,
+        "name": "★ Bloodhound Gloves | Snakebite (Factory New)",
+        "3d": "https://3d.cs.money/item/c357c06ceebd97396e048f9f34aa8d11",
+        "computed": 850.39,
         "discount": 0.2308,
-        "id": 1960142
+        "id": 1632029
     },
     {
-        "name": "★ Survival Knife | Fade (Factory New)",
-        "3d": "https://3d.cs.money/item/43d12a45988e548ba96fa6ac9b8318cd",
-        "computed": 588.02,
+        "name": "★ Bloodhound Gloves | Snakebite (Factory New)",
+        "3d": "https://3d.cs.money/item/2728f172cf2fc2e7bc6abe9b9a55ed4c",
+        "computed": 850.39,
         "discount": 0.2308,
-        "id": 1776942
+        "id": 1668655
     },
     {
-        "name": "★ Survival Knife | Fade (Factory New)",
-        "3d": "https://3d.cs.money/item/20c35e29a6ad4b191fce3e98006d003b",
-        "computed": 591.64,
+        "name": "★ Bloodhound Gloves | Snakebite (Factory New)",
+        "3d": "https://3d.cs.money/item/bb8bcfb75046828059d237c307f77fb4",
+        "computed": 850.39,
         "discount": 0.2308,
-        "id": 1642364
+        "id": 2067236
     },
     {
-        "name": "★ Survival Knife | Fade (Factory New)",
-        "3d": "https://3d.cs.money/item/3ddcf46f8ad372089db602420a9f9f37",
-        "computed": 593.95,
+        "name": "★ Bloodhound Gloves | Snakebite (Factory New)",
+        "3d": "https://3d.cs.money/item/260caeb58f63921d67100fc29d6ea855",
+        "computed": 850.39,
         "discount": 0.2308,
-        "id": 1673951
+        "id": 2283029
     },
     {
-        "name": "★ Survival Knife | Fade (Factory New)",
-        "3d": "https://3d.cs.money/item/53e24b4f33c5a459acfd3c49e9321497",
-        "computed": 594.41,
+        "name": "★ Bloodhound Gloves | Snakebite (Factory New)",
+        "3d": "https://3d.cs.money/item/41c2f11aa5727d14a4207f4f26b96124",
+        "computed": 850.39,
         "discount": 0.2308,
-        "id": 1678735
+        "id": 2688475
     },
     {
-        "name": "★ StatTrak™ Bowie Knife | Slaughter (Field-Tested)",
-        "3d": "https://3d.cs.money/item/25fd5d10d96374e72e5aac2ac44a8b34",
-        "computed": 259.99,
-        "discount": 0.314,
-        "id": 1731124
-    },
-    {
-        "name": "★ StatTrak™ Huntsman Knife | Lore (Minimal Wear)",
-        "3d": "https://3d.cs.money/item/10c058f032521ef1d27be74b3fc77ce5",
-        "computed": 247.92,
-        "discount": 0.302,
-        "id": 2094237
-    },
-    {
-        "name": "★ StatTrak™ Bowie Knife | Crimson Web (Well-Worn)",
-        "3d": "https://3d.cs.money/item/7339f018f7143a26953ebad17a2384dc",
-        "computed": 259.99,
-        "discount": 0.2459,
-        "id": 1641410
-    },
-    {
-        "name": "★ StatTrak™ Falchion Knife | Slaughter (Field-Tested)",
-        "3d": "https://3d.cs.money/item/7c62c3d05b6656812aa0773f991186c6",
-        "computed": 189.99,
-        "discount": 0.2791,
-        "id": 1792796
-    },
-    {
-        "name": "★ Stiletto Knife | Damascus Steel (Field-Tested)",
-        "3d": "https://3d.cs.money/item/ed4db4a0e1b0d8fafeca4acd2aa7c765",
-        "computed": 199.89,
+        "name": "★ Bloodhound Gloves | Snakebite (Factory New)",
+        "3d": "https://3d.cs.money/item/b2500cd3456fb3c9afc402038d7905ac",
+        "computed": 850.39,
         "discount": 0.2308,
-        "id": 1737406
+        "id": 2760856
     },
     {
-        "name": "★ Falchion Knife | Fade (Factory New)",
-        "3d": "https://3d.cs.money/item/ee739799b3ff1d30c99b85e5e153392c",
-        "computed": 270.69,
-        "discount": 0.229,
-        "id": 1915825
+        "name": "★ Bloodhound Gloves | Guerrilla (Factory New)",
+        "3d": "https://3d.cs.money/item/5cad03a1a75cb3639fe0fe7015d923cb",
+        "computed": 667.91,
+        "discount": 0.3616,
+        "id": 2685431
     },
     {
-        "name": "★ Paracord Knife | Scorched (Factory New)",
-        "3d": "https://3d.cs.money/item/4d6dd70dff67d14f0600da899e56356c",
-        "computed": 174.99,
-        "discount": 0.2774,
-        "id": 1731119
-    },
-    {
-        "name": "★ Huntsman Knife | Black Laminate (Battle-Scarred)",
-        "3d": "https://3d.cs.money/item/b6b9a5154e40aad0c906011d7e8efd21",
-        "computed": 156.59,
-        "discount": 0.202,
-        "id": 1981198
-    },
-    {
-        "name": "★ Gut Knife | Marble Fade (Factory New)",
-        "3d": "https://3d.cs.money/item/36e050b142a1c98d833bd2b28ec51f60",
-        "computed": 879.49,
+        "name": "★ Bloodhound Gloves | Guerrilla (Factory New)",
+        "3d": "https://3d.cs.money/item/33f5df6f7035da9f35a8dfd959a2852c",
+        "computed": 804.73,
         "discount": 0.2308,
-        "id": 1648825
+        "id": 1641802
+    },
+    {
+        "name": "★ Bloodhound Gloves | Guerrilla (Factory New)",
+        "3d": "https://3d.cs.money/item/1156a5cf0407870a94d7a2989ff97a2a",
+        "computed": 804.73,
+        "discount": 0.2308,
+        "id": 2283076
+    },
+    {
+        "name": "★ Bloodhound Gloves | Guerrilla (Factory New)",
+        "3d": "https://3d.cs.money/item/df9838230424dc7d8d5f0a2b58f2b941",
+        "computed": 804.73,
+        "discount": 0.2308,
+        "id": 2642042
+    },
+    {
+        "name": "★ Bloodhound Gloves | Guerrilla (Factory New)",
+        "3d": "https://3d.cs.money/item/26e7fd2f9fa49b79acac15a2fa6a3776",
+        "computed": 804.73,
+        "discount": 0.2308,
+        "id": 2904628
+    },
+    {
+        "name": "★ Bloodhound Gloves | Guerrilla (Factory New)",
+        "3d": "https://3d.cs.money/item/f5824662ae45eca82212687b6416414d",
+        "computed": 804.73,
+        "discount": 0.2308,
+        "id": 2904660
+    },
+    {
+        "name": "★ Driver Gloves | Diamondback (Factory New)",
+        "3d": "https://3d.cs.money/item/1e971947b8c0fb822388d6ec75a21fc6",
+        "computed": 634.51,
+        "discount": 0.3327,
+        "id": 2685478
+    },
+    {
+        "name": "★ Driver Gloves | Diamondback (Factory New)",
+        "3d": "https://3d.cs.money/item/246b25b68c29cba2b2c1e182285632c0",
+        "computed": 731.4,
+        "discount": 0.2308,
+        "id": 1626114
+    },
+    {
+        "name": "★ Driver Gloves | Overtake (Factory New)",
+        "3d": "https://3d.cs.money/item/c463093798074b4c581e8e8071624a01",
+        "computed": 729.11,
+        "discount": 0.2308,
+        "id": 1637830
+    },
+    {
+        "name": "★ Driver Gloves | Overtake (Factory New)",
+        "3d": "https://3d.cs.money/item/71f6a223a80dba4c3bc4613900cf3eef",
+        "computed": 729.11,
+        "discount": 0.2308,
+        "id": 2913767
+    },
+    {
+        "name": "★ Driver Gloves | Overtake (Factory New)",
+        "3d": "https://3d.cs.money/item/bbca63e79661db8f1085ca7f0bdba963",
+        "computed": 729.11,
+        "discount": 0.2308,
+        "id": 2940196
+    },
+    {
+        "name": "★ Bloodhound Gloves | Bronzed (Factory New)",
+        "3d": "https://3d.cs.money/item/d571633eeba931e40e6335d6af3ece93",
+        "computed": 683.99,
+        "discount": 0.2308,
+        "id": 2067284
+    },
+    {
+        "name": "★ Bloodhound Gloves | Bronzed (Factory New)",
+        "3d": "https://3d.cs.money/item/3c9a1c9991fb84e3a5b0ddbf28d48bd7",
+        "computed": 683.99,
+        "discount": 0.2308,
+        "id": 2283059
+    },
+    {
+        "name": "★ Bloodhound Gloves | Bronzed (Factory New)",
+        "3d": "https://3d.cs.money/item/0986803b03417a2ae918e54a61760bf1",
+        "computed": 683.99,
+        "discount": 0.2308,
+        "id": 2283162
+    },
+    {
+        "name": "★ Bloodhound Gloves | Bronzed (Factory New)",
+        "3d": "https://3d.cs.money/item/d028b756cc4f68e0672fe142c9eed5ba",
+        "computed": 683.99,
+        "discount": 0.2308,
+        "id": 2911821
+    },
+    {
+        "name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+        "3d": "https://3d.cs.money/item/9ab33a60794c47924cd96d6620bbb540",
+        "computed": 964.78,
+        "discount": 0.2308,
+        "id": 2908252
+    },
+    {
+        "name": "★ Hand Wraps | Spruce DDPAT (Factory New)",
+        "3d": "https://3d.cs.money/item/9a49ef5dbc717437c02d8efa2c1859c1",
+        "computed": 631.56,
+        "discount": 0.2308,
+        "id": 2283129
+    },
+    {
+        "name": "★ Moto Gloves | 3rd Commando Company (Factory New)",
+        "3d": "https://3d.cs.money/item/3703bd4d0cbe6346b2a650054acdfee5",
+        "computed": 598.55,
+        "discount": 0.2308,
+        "id": 1657657
+    },
+    {
+        "name": "★ Moto Gloves | 3rd Commando Company (Factory New)",
+        "3d": "https://3d.cs.money/item/3cf697ff6ae7e05023cbd624c97520de",
+        "computed": 598.55,
+        "discount": 0.2308,
+        "id": 2923421
+    },
+    {
+        "name": "★ Moto Gloves | 3rd Commando Company (Factory New)",
+        "3d": "https://3d.cs.money/item/ebd2c022e8778a585454ab6b7301b330",
+        "computed": 598.55,
+        "discount": 0.2308,
+        "id": 2925229
+    },
+    {
+        "name": "★ Moto Gloves | 3rd Commando Company (Factory New)",
+        "3d": "https://3d.cs.money/item/584289bddfdb2ce133d248a015bda05c",
+        "computed": 598.55,
+        "discount": 0.2308,
+        "id": 2925242
+    },
+    {
+        "name": "★ Hand Wraps | Desert Shamagh (Factory New)",
+        "3d": "https://3d.cs.money/item/bf0df52177f234ba50f954e5908aa238",
+        "computed": 429.99,
+        "discount": 0.4278,
+        "id": 2936907
+    },
+    {
+        "name": "★ Hand Wraps | Desert Shamagh (Factory New)",
+        "3d": "https://3d.cs.money/item/fb673686e22f1fd11fc4b234e95eda0f",
+        "computed": 578.02,
+        "discount": 0.2308,
+        "id": 1722250
+    },
+    {
+        "name": "★ Hand Wraps | Desert Shamagh (Factory New)",
+        "3d": "https://3d.cs.money/item/6a62e1ad9e491750f1709c6cda08aa06",
+        "computed": 578.02,
+        "discount": 0.2308,
+        "id": 2689395
+    },
+    {
+        "name": "★ Hand Wraps | Desert Shamagh (Factory New)",
+        "3d": "https://3d.cs.money/item/23fb59fd5af696f3d3927728faf75f24",
+        "computed": 578.02,
+        "discount": 0.2308,
+        "id": 2759886
+    },
+    {
+        "name": "★ Moto Gloves | Transport (Factory New)",
+        "3d": "https://3d.cs.money/item/494bd44d8a5c3ce54f7f0bf681000533",
+        "computed": 574.88,
+        "discount": 0.2308,
+        "id": 2933562
+    },
+    {
+        "name": "★ Hand Wraps | Slaughter (Minimal Wear)",
+        "3d": "https://3d.cs.money/item/cd95992039bffb15274fb0b571776668",
+        "computed": 648.77,
+        "discount": 0.2308,
+        "id": 2786229
+    },
+    {
+        "name": "★ Hand Wraps | Slaughter (Minimal Wear)",
+        "3d": "https://3d.cs.money/item/ca4727d753ad40e91ea70d3d4544df1f",
+        "computed": 709.84,
+        "discount": 0.2077,
+        "id": 2682926
+    },
+    {
+        "name": "★ Broken Fang Gloves | Unhinged (Factory New)",
+        "3d": "https://3d.cs.money/item/a2ab15e9c08f027120144ff75f8a2a58",
+        "computed": 497.78,
+        "discount": 0.2308,
+        "id": 1725387
+    },
+    {
+        "name": "★ Broken Fang Gloves | Unhinged (Factory New)",
+        "3d": "https://3d.cs.money/item/3c26fc2d195af6ee9d490f8d45fac63e",
+        "computed": 497.78,
+        "discount": 0.2308,
+        "id": 2641901
+    },
+    {
+        "name": "★ Hand Wraps | Constrictor (Factory New)",
+        "3d": "https://3d.cs.money/item/79eeb259b64c3893bc013adb6b4b04b8",
+        "computed": 457.32,
+        "discount": 0.2308,
+        "id": 1653560
+    },
+    {
+        "name": "★ Hand Wraps | Constrictor (Factory New)",
+        "3d": "https://3d.cs.money/item/22424c70bcf433898b434f70699b0ac6",
+        "computed": 457.32,
+        "discount": 0.2308,
+        "id": 2759883
+    },
+    {
+        "name": "★ Hand Wraps | Constrictor (Factory New)",
+        "3d": "https://3d.cs.money/item/759e3d6f0bb842b6140b550de45c0cd7",
+        "computed": 457.32,
+        "discount": 0.2308,
+        "id": 2904626
+    },
+    {
+        "name": "★ Hand Wraps | Constrictor (Factory New)",
+        "3d": "https://3d.cs.money/item/f62696a580f3a97225836f25e5590ff2",
+        "computed": 457.32,
+        "discount": 0.2308,
+        "id": 2923432
+    },
+    {
+        "name": "★ Hand Wraps | Constrictor (Factory New)",
+        "3d": "https://3d.cs.money/item/ddae83b63cdcc61b7d2cbbc0ecf86694",
+        "computed": 457.32,
+        "discount": 0.2308,
+        "id": 2933543
+    },
+    {
+        "name": "★ Specialist Gloves | Field Agent (Field-Tested)",
+        "3d": "https://3d.cs.money/item/9b41b07fc9c36fe0c6193c30a3972d64",
+        "computed": 394.55,
+        "discount": 0.1971,
+        "id": 2721506
+    },
+    {
+        "name": "★ Hand Wraps | Duct Tape (Factory New)",
+        "3d": "https://3d.cs.money/item/eed977d054c0990271eaf447a728aa0c",
+        "computed": 337.45,
+        "discount": 0.2308,
+        "id": 2636527
+    },
+    {
+        "name": "★ Hydra Gloves | Mangrove (Factory New)",
+        "3d": "https://3d.cs.money/item/5c5a220c87f78c5b896bede44a70f1c0",
+        "computed": 285.54,
+        "discount": 0.2308,
+        "id": 2336523
     }
 ]
